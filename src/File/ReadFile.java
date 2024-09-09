@@ -17,7 +17,7 @@ public class ReadFile {
             System.out.println(s);
             sc.close();
         }catch (IOException e){
-            System.out.println(e.getMessage());//pull
+            System.out.println(e.getMessage());//pull da update
         }
 
     }
